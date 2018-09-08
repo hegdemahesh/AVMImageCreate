@@ -1,0 +1,10 @@
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\bin\Debug\AVMImagCreate.exe.config
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\bin\Debug\AVMImagCreate.exe
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\bin\Debug\AVMImagCreate.pdb
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\obj\Debug\AVMImagCreate.csprojAssemblyReference.cache
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\obj\Debug\AVMImagCreate.Form1.resources
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\obj\Debug\AVMImagCreate.Properties.Resources.resources
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\obj\Debug\AVMImagCreate.csproj.GenerateResource.cache
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\obj\Debug\AVMImagCreate.csproj.CoreCompileInputs.cache
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\obj\Debug\AVMImagCreate.exe
+C:\Users\mahesheg\source\repos\AVMImagCreate\AVMImagCreate\obj\Debug\AVMImagCreate.pdb
